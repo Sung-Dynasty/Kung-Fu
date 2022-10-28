@@ -20,9 +20,11 @@ Scanning: Life Support
 Initilizing Reticulating Splines
 
 
-VIManaOSΩ: Loaded in: 9Mi
+VIManaΩ
 ---------------------
-PythonΩ Terminal: v1.Alpha
+PythonΩ: v1.Alpha 
+Terminal: v1.Alpha
+
 Hull: 198% Inegrity
 Power: 229% 
 Overcharge: Engaged
@@ -34,3 +36,6 @@ Financial Institutions: Cryptic
 Religeous Jargon: Spoken
 
 Now fuck off and join me or die to life.
+
+Now listen to some downlink: ignition.
+Its like getting a blow job eveb for a girl.
