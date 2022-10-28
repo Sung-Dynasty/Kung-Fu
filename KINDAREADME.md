@@ -20,10 +20,10 @@ Scanning: Life Support
 Initilizing Reticulating Splines
 
 
-VIManaΩ
+ViManaΩ
 ---------------------
 PythonΩ: v1.Alpha 
-Terminal: v1.Alpha
+TerminalΩ: v1.Alpha
 
 Hull: 198% Inegrity
 Power: 229% 
