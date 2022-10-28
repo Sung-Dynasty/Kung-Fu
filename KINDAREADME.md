@@ -1,7 +1,7 @@
 # Kung-Fu-Programming
 
 
-What is Kung Fu - Why cant I think of programming as kung fu? DAD HELP! he said he has no idea to ask me but its alot harder than it looks to pick a art I look at everything as Kung Fu. 
+What is Kung Fu Why cant I think of programming as kung fu? DAD HELP! he said he has no idea to ask me but its alot harder than it looks to pick a art I look at everything as Kung Fu. 
 
 If you really think about it music is kinda like Kung Fu so is programming, you know coding. Most people think its easy to do but it takes alot of preperation and forthought. I was thinking about all of this 20 years ago and I still dont know which programming language to use. Hell, no one does. 
 
