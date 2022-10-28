@@ -38,4 +38,4 @@ Religeous Jargon: Spoken
 Now fuck off and join me or die to life.
 
 Now listen to some downlink: ignition.
-Its like getting a blow job eveb for a girl.
+Its like getting your dick sucked even for a girl.
